@@ -20,10 +20,7 @@ I'm documenting my experience [on Medium](https://medium.com/@simone_smith).
 
 #### Trinity College, Oxford University (2006 - 2010)
 
-- Spanish and Russian
-- 2.1
-- Organised the entertainment for the college ball, managing a budget of £75,000.
-- Played clarinet in the college orchestra.
+- Spanish and Russian – 2.1
 
 #### North London Collegiate School (1999 - 2006)
 
@@ -48,4 +45,4 @@ I'm documenting my experience [on Medium](https://medium.com/@simone_smith).
 
 ## Interests
 
-I love reading, hence the first career in publishing, and do so constantly and widely. I make the most of London's theatre scene, love to travel, and enjoy being outdoors, especially hiking in the countryside and participating in my local weekly parkrun. 
+I love reading, hence the first career in publishing, and do so constantly and widely. I make the most of London's theatre scene, and enjoy travelling and being outdoors, whether that involves hiking in the countryside or participating in my local weekly parkrun. 
