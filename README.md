@@ -39,6 +39,7 @@ I'm documenting my experience [on Medium](https://medium.com/@simone_smith).
 
 **Limmud Conference** (2014 - 2015)
 *Bookshop manager* | *Babysitting service manager*
+
 - Managed the bookshop and marketplace at Limmud, a five-day conference dedicated to Jewish learning for 3,000 attendees
 - Managed the babysitting service for families attending Limmud and supervised around 20 volunteers
 
