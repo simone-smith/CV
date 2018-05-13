@@ -3,29 +3,48 @@
 I am an ambitious and energetic student at Makers Academy, Europe's leading coding bootcamp. After 7 years in publishing, I have 
 decided to build upon my strong logical, analytical and creative skills by learning to code and starting a new career as a developer.
 
+I would like to work at a company that encourages me to continue learning and developing my skills, while providing an opportunity to do meaningful work in an environment that reflects the coding practices espoused by Makers Academy.
+
 I'm documenting my experience [on Medium](https://medium.com/@simone_smith). 
 
 
 ## Skills
 
+#### Writing and communicating
+
+While working in publishing, I attended international book fairs to meet publishers from all over the world. 
+Pitching books at book fairs or over the phone provided an excellent opportunity to hone my verbal presentation skills and make me a confident and clear communicator. 
+Likewise, when writing I convey information effectively, and prepared many newsletters, rights guides and other sales material in my work. 
+
+#### Logic and analytical thinking
+
+Database management and royalty tracking software is a fundamental tool in the business of selling rights, and I've long been interested in optimising these tools for maximum efficiency and suitability. 
+To this end, I implemented several new systems at ILA to improve administrative task, including the development of a royalty tracking system which succeeded in increasing the speed and efficiency with money is collected from publishers. 
+
 #### Languages
 
-- I speak Spanish and Russian to degree level. I am also competent in French and Hebrew, for which I attended weekly evening classes between 2013 and 2016.
-- I lived in Russia and Spain during my degree, spending 7 months working and studying in St Petersburg and 4 months in Madrid. 
+I speak Spanish and Russian to degree level. I am also competent in French and Hebrew, for which I attended weekly evening classes between 2013 and 2016.
 
 
 ## Education
 
-#### Makers Academy (April 2018 - August 2018)
+#### Makers Academy (May 2018 - August 2018)
+
+An intensive, 12-week web developer bootcamp, which focuses on:
+
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
 
 #### Trinity College, Oxford University (2006 - 2010)
 
 - Spanish and Russian – 2.1
+- Year abroad spent in Russia and Spain: 
 
-#### North London Collegiate School (1999 - 2006)
-
-- International Baccalaureate – 43 points 
-- GCSEs – 6 A* and 4 A grades
+   Art history courses at the Russian Museum in St Petersburg and Instituto Superior de Arte in Madrid
+   Journalism internships at [In Your Pocket](https://www.inyourpocket.com/st-petersburg-en) (St Petersburg) and [InMadrid](http://www.inmadrid.com/) (Madrid)
+   English teacher for employees of Mediterranean Shipping Company in Madrid
 
 
 ## Experience
@@ -46,4 +65,6 @@ I'm documenting my experience [on Medium](https://medium.com/@simone_smith).
 
 ## Interests
 
-I love reading, hence the first career in publishing, and do so constantly and widely. I make the most of London's theatre scene, and enjoy travelling and being outdoors, whether that involves hiking in the countryside or participating in my local weekly parkrun. 
+I love **reading**, hence the first career in publishing, and do so constantly and widely. 
+I make the most of London's **theatre** scene, and enjoy **travelling and being outdoors**, whether that involves **hiking** in the countryside or participating in my local weekly parkrun. 
+I also go to **tech meetups** in London, to meet like-minded people and learn about new ideas and developments.  
