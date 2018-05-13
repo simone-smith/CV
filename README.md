@@ -42,7 +42,7 @@ An intensive, 12-week web developer bootcamp, which focuses on:
 - Spanish and Russian – 2.1
 - Year abroad spent in Russia and Spain: 
 
-   Art history courses at the Russian Museum in St Petersburg and Instituto Superior de Arte in Madrid
+   Art history courses at the Russian Museum in St Petersburg and Instituto Superior de Arte in Madrid  
      Journalism internships at [In Your Pocket](https://www.inyourpocket.com/st-petersburg-en) (St Petersburg) and [InMadrid](http://www.inmadrid.com/) (Madrid)  
      English teacher for employees of Mediterranean Shipping Company in Madrid  
 
@@ -56,8 +56,8 @@ An intensive, 12-week web developer bootcamp, which focuses on:
 - Grew a new area of ILA’s business by establishing new relationships in international audio publishing
 - Worked on the development of [Rights Gallery](http://rightsgallery.co.uk/?COLLCC=1648547733&), a web-based content management system for creating sales materials.
 
-**Limmud Conference** (2014 - 2015)
-*Bookshop manager*, *Babysitting service manager*
+**Limmud Conference** (2014 - 2015)   
+*Bookshop manager* | *Babysitting service manager*
 
 - Managed the bookshop and marketplace at Limmud, a five-day conference dedicated to Jewish learning for 3,000 attendees
 - Managed the babysitting service for families attending Limmud and supervised around 20 volunteers
