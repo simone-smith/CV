@@ -1,6 +1,6 @@
 ## Simone Smith
 
-I am an ambitious and energetic student at Makers Academy, Europe's leading coding bootcamp. After 7 years in publishing, I have 
+I am an ambitious and energetic student at Makers Academy, Europe's leading coding bootcamp. After 7 years in publishing, selling rights at Intercontinental Literary Agency Ltd (ILA), I have 
 decided to build upon my strong logical, analytical and creative skills by learning to code and starting a new career as a developer.
 
 I would like to work at a company that encourages me to continue learning and developing my skills, while providing an opportunity to do meaningful work in an environment that reflects the coding practices espoused by Makers Academy.
@@ -43,8 +43,8 @@ An intensive, 12-week web developer bootcamp, which focuses on:
 - Year abroad spent in Russia and Spain: 
 
    Art history courses at the Russian Museum in St Petersburg and Instituto Superior de Arte in Madrid
-   Journalism internships at [In Your Pocket](https://www.inyourpocket.com/st-petersburg-en) (St Petersburg) and [InMadrid](http://www.inmadrid.com/) (Madrid)
-   English teacher for employees of Mediterranean Shipping Company in Madrid
+     Journalism internships at [In Your Pocket](https://www.inyourpocket.com/st-petersburg-en) (St Petersburg) and [InMadrid](http://www.inmadrid.com/) (Madrid)  
+     English teacher for employees of Mediterranean Shipping Company in Madrid  
 
 
 ## Experience
@@ -57,7 +57,7 @@ An intensive, 12-week web developer bootcamp, which focuses on:
 - Worked on the development of [Rights Gallery](http://rightsgallery.co.uk/?COLLCC=1648547733&), a web-based content management system for creating sales materials.
 
 **Limmud Conference** (2014 - 2015)
-*Bookshop manager* | *Babysitting service manager*
+*Bookshop manager*, *Babysitting service manager*
 
 - Managed the bookshop and marketplace at Limmud, a five-day conference dedicated to Jewish learning for 3,000 attendees
 - Managed the babysitting service for families attending Limmud and supervised around 20 volunteers
