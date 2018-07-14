@@ -1,6 +1,6 @@
-<h1 align="center">[Simone Smith](simonecaplin@gmail.com)</h1>
+# [Simone Smith](simonecaplin@gmail.com)
 
-<p align="center">
+<p align="left">
   <a href="https://medium.com/@simone_smith">
     <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42">
   </a>
@@ -10,9 +10,7 @@
   </a>
 </p>
 
-<p align="center">
 [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
-</p>
 
 ## Background
 
