@@ -1,4 +1,4 @@
-# [Simone Smith](simonecaplin@gmail.com)
+# [Simone Smith](mailto:simonecaplin@gmail.com)
 
 <p align="left">
   <a href="https://medium.com/@simone_smith">
