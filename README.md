@@ -30,7 +30,7 @@ I would like to work at a company that encourages me to continue learning and ke
 ## Skills
 
 #### Clean code advocate
-I believe firmly in the importance of clean, well-tested code. I endeavour to ensure that my code is DRY and adheres to the SOLID design principles, so as to write code that others can understand and that is easy to change. I use TDD to decrease the likelihood of introducing bugs, make my code easier to refactor, and provide confidence and focus to my development process.
+I believe firmly in the importance of clean, well-tested code. I endeavour to ensure that my code is DRY and adheres to good design principles, so as to write code that others can understand and that is easy to change. I use TDD to decrease the likelihood of introducing bugs, make my code easier to refactor, and provide confidence and focus to my development process.
 
 #### Great collaborator
 I'm at my best when working in a team or with a pair partner, and have honed my ability to deliver and receive feedback through practice and Makers Academy's emotional intelligence curriculum. I strive to apply XP values when collaborating on code with another person.
